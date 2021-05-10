@@ -1,0 +1,12 @@
+body{ 
+  background-image: url("download-15.jpg"); 
+background-size: 100% 500%;
+background-attachment: fixed; 
+background-repeat: no-repeat;
+align-self: right;
+}
+#form{
+  background-color: mediumseagreen;
+  width: 80%;
+  position: relative;
+}
